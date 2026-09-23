@@ -1,4 +1,4 @@
-# hey, i'm Max
+# hey, i'm Maxime
 
 **3rd-year student at MSUT STANKIN**, based in Moscow.
 
