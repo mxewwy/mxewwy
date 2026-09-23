@@ -115,6 +115,14 @@ Currently exploring **business analysis and product analytics**.
 
 <br>
 
+### languages
+
+Russian · Native  
+English · B2  
+French · A2
+
+<br>
+
 ### currently
 
 Learning, building, experimenting.
@@ -123,4 +131,11 @@ Trying to get better at both the technical side and understanding what actually 
 
 <br>
 
-[website](https://hawkie.ru) · [telegram](https://t.me/mhawkie)
+### find me
+
+<a href="https://hawkie.ru">
+  <img src="https://img.shields.io/badge/website-hawkie.ru-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://t.me/mhawkie">
+  <img src="https://img.shields.io/badge/telegram-@mhawkie-111111?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
