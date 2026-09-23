@@ -133,9 +133,5 @@ Trying to get better at both the technical side and understanding what actually 
 
 ### find me
 
-<a href="https://hawkie.ru">
-  <img src="https://img.shields.io/badge/website-hawkie.ru-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://t.me/mhawkie">
-  <img src="https://img.shields.io/badge/telegram-@mhawkie-111111?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+[**hawkie.ru**](https://hawkie.ru)  
+[**@mhawkie**](https://t.me/mhawkie)
